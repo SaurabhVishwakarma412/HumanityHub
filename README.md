@@ -1,16 +1,77 @@
-# React + Vite
+# 🧒 Pediatric Teledermatology Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) based web application that enables parents to remotely consult pediatric dermatologists by submitting images of their child’s skin conditions for diagnosis and review.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🏗️ Tech Stack
 
-## Expanding the ESLint configuration
+| Layer | Technologies Used |
+|-------|------------------|
+| **Frontend** | React.js, Tailwind CSS, Axios, React Router |
+| **Backend** | Node.js, Express.js, Multer (image upload), JWT Auth |
+| **Database** | MongoDB, Mongoose ORM |
+| **Deployment** | Coming Soon |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Folder Structure
+
+### **Frontend**
+
+
+### **Backend**
+
+
+## 🔐 Authentication Flow
+
+- JSON Web Tokens (JWT) used for secure route access
+- Separate login portals for Parent and Doctor roles
+- Middleware validates token before protected route access
+
+
+
+---
+
+
+---
+
+## 🛠️ Installation Steps
+
+### Clone the repository
+- git clone https://github.com/SaurabhVishwakarma412/HumanityHub
+- cd HumanityHub
+
+
+---
+
+## 🎯 Project Status
+
+🚧 **In Progress**  
+More features coming soon including:
+- AI-based skin condition prediction
+- Real-time chat with dermatologists
+- Appointment scheduling system
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss what you would like to improve.
+
+
+## 👤 Author
+
+**Saurabh Vishwakarma**  
+B.Tech CSE • Lovely Professional University  
+📧 Email: saurabhkv412@gmail.com
+🌐 LinkedIn: *(add link here)*
+---
+
+🌟 **Star this repo** if you like the project!  
+
