@@ -70,7 +70,7 @@ For major changes, please open an issue first to discuss what you would like to 
 **Saurabh Vishwakarma**  
 B.Tech CSE • Lovely Professional University  
 📧 Email: saurabhkv412@gmail.com
-🌐 LinkedIn: *(add link here)*
+🌐 LinkedIn: https://www.linkedin.com/in/saurabhvishwakarma4/
 ---
 
 🌟 **Star this repo** if you like the project!  
