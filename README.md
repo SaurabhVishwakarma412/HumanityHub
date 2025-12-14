@@ -1,6 +1,6 @@
-# 🧒 Pediatric Teledermatology Platform
+# 🧒 HumanityHub
 
-A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) based web application that enables parents to remotely consult pediatric dermatologists by submitting images of their child’s skin conditions for diagnosis and review.
+A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) based web application that enables peoples to share their good works.
 
 ---
 
