@@ -53,9 +53,7 @@ A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) based web applica
 
 🚧 **In Progress**  
 More features coming soon including:
-- AI-based skin condition prediction
-- Real-time chat with dermatologists
-- Appointment scheduling system
+
 
 ---
 
